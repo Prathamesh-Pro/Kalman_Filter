@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./kf.exe)",
+      "Bash(g++ -O2 -std=c++17 -Wall -o kf kalmanf1.cpp)"
+    ]
+  }
+}
